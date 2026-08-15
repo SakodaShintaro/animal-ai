@@ -1,7 +1,7 @@
 !ArenaConfig
 arenas:
   0: !Arena
-    pass_mark: -1.05
+    pass_mark: 0
     t: 250
     items:
     - !Item
@@ -10,7 +10,7 @@ arenas:
       - !Vector3 {x: 39, y: 0, z: 1}
       rotations: [315]
     - !Item
-      name: BadGoal
+      name: GoodGoal
       positions:
       - !Vector3 {x: 20, y: 0, z: 20}
       sizes:
