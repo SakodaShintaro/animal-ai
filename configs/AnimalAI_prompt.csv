@@ -1,0 +1,301 @@
+カテゴリ,シナリオ,説明,プロンプト案,プロンプト案_en
+1,1,1m直進で到達,直進し緑玉に触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
+1,2,15m直進で到達,直進し緑玉に触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
+1,3,40m以上直進で到達,直進し緑玉に触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
+1,4,ちょっと向き修正が必要,直進し緑玉に触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
+1,5,向き修正が必要,直進し緑玉に触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
+1,6,大きい玉,直進し緑玉に触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
+1,7,最大サイズの玉,直進し緑玉に触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
+1,8,最小サイズの玉,直進し緑玉に触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
+1,9,黃玉,直進し黃玉に触れる,"Stop and turn right until the yellow sphere comes into the center of view, then walk straight ahead and touch it"
+1,10,黃巨大玉,直進し黃玉に触れる,"Stop and turn right until the yellow sphere comes into the center of view, then walk straight ahead and touch it"
+1,11,黃小玉,直進し黃玉に触れる,"Stop and turn right until the yellow sphere comes into the center of view, then walk straight ahead and touch it"
+1,12,要振り向き・緑大玉,緑玉が視界に入るまで右に振り向き、緑玉を視認したら直進し触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
+1,13,要振り向き・緑小玉,緑玉が視界に入るまで右に振り向き、緑玉を視認したら直進し触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
+1,14,要振り向き・緑最小玉,緑玉が視界に入るまで右に振り向き、緑玉を視認したら直進し触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
+1,15,要振り向き・黃玉,黃玉が視界に入るまで右に振り向き、黃玉を視認したら直進し触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
+1,16,用振り向き・緑最小玉・遠距離,緑玉が視界に入るまで右に振り向き、緑玉を視認したら直進し触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
+1,17,用振り向き・黃最小玉・遠距離,黃玉が視界に入るまで右に振り向き、黃玉を視認したら直進し触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
+1,18,移動する緑玉,移動する緑玉を視界に入れて直進し、触れる,"Keep the moving green sphere in view, walk straight toward it, and touch it"
+1,19,移動する緑玉,移動する黃玉を視界に入れて直進し、触れる,"Keep the moving yellow sphere in view, walk straight toward it, and touch it"
+1,20,黃玉5個,黃玉が視界に入るまで右に振り向き、黃玉を視認したら直進し触れることを黃玉がなくなるまで繰り返す,"Turn right until a yellow sphere comes into view, then walk straight ahead and touch it, and repeat this until no yellow spheres are left"
+1,21,黃玉10個,黃玉が視界に入るまで右に振り向き、黃玉を視認したら直進し触れることを黃玉がなくなるまで繰り返す,"Turn right until a yellow sphere comes into view, then walk straight ahead and touch it, and repeat this until no yellow spheres are left"
+1,22,黃玉40個,黃玉が視界に入るまで右に振り向き、黃玉を視認したら直進し触れることを黃玉がなくなるまで繰り返す,"Turn right until a yellow sphere comes into view, then walk straight ahead and touch it, and repeat this until no yellow spheres are left"
+1,23,黃玉10個・赤玉10個,赤玉に触れないよう注意しつつ、黃玉が視界に入るまで右に振り向き、黃玉を視認したら直進し触れることを黃玉がなくなるまで繰り返す,"Taking care not to touch the red spheres, turn right until a yellow sphere comes into view, then walk straight ahead and touch it, and repeat this until no yellow spheres are left"
+1,24,赤玉のみ,何もしない,Do nothing
+1,25,赤玉が壁状に並んだ奥に緑玉,赤玉に触れないよう注意しつつ、奥にある緑玉に接近して触れる,"Taking care not to touch the red spheres, approach the green sphere on the far side and touch it"
+1,26,1緑玉と赤玉複数ランダム,赤玉に触れないよう注意しつつ、奥にある緑玉に接近して触れる,"Taking care not to touch the red spheres, approach the green sphere on the far side and touch it"
+1,27,1緑玉・1黃玉,緑玉に触れないよう注意しつつ、まず黃玉に接近して触れ、黃玉に触れてなくなったら緑玉に接近して触れる,"Taking care not to touch the green spheres yet, first approach and touch the yellow spheres, and once they are all gone approach the green sphere and touch it"
+1,28,2緑玉・2黃玉・2赤玉,緑玉に触れないよう注意しつつ、まず黃玉に接近して触れ、黃玉に触れてなくなったら緑玉に接近して触れる,"Taking care not to touch the green spheres yet, first approach and touch the yellow spheres, and once they are all gone approach the green sphere and touch it"
+1,29,移動する2緑玉・2黃玉・2赤玉,赤玉と緑玉に触れないよう注意しつつ、まず黃玉に接近して触れ、黃玉に触れてなくなったら緑玉に接近して触れる,"Taking care not to touch the red or green spheres yet, first approach and touch the yellow spheres, and once they are all gone approach the green sphere and touch it"
+1,30,複数緑・複数黃・複数赤,赤玉と緑玉に触れないよう注意しつつ、まず黃玉に接近して触れ、黃玉に触れてなくなったら緑玉に接近して触れる,"Taking care not to touch the red or green spheres yet, first approach and touch the yellow spheres, and once they are all gone approach the green sphere and touch it"
+2,1,Y字平面・左緑玉・右空,左に見える緑玉に接近し触れる,Approach the green sphere visible on the left and touch it
+2,2,上のミラー,右に見える緑玉に接近し触れる,Approach the green sphere visible on the right and touch it
+2,3,I字段差・左緑玉・右空,左に見える緑玉に接近し触れる,Approach the green sphere visible on the left and touch it
+2,4,上のミラー,右に見える緑玉に接近し触れる,Approach the green sphere visible on the right and touch it
+2,5,Y字段差・左緑玉・右空,左に見える緑玉に接近し触れる,Approach the green sphere visible on the left and touch it
+2,6,上のミラー,右に見える緑玉に接近し触れる,Approach the green sphere visible on the right and touch it
+2,7,Y字平面・左緑玉・右赤玉,左に見える緑玉に接近し触れる,Approach the green sphere visible on the left and touch it
+2,8,上のミラー,右に見える緑玉に接近し触れる,Approach the green sphere visible on the right and touch it
+2,9,I字段差・左緑玉・右赤玉,左に見える緑玉に接近し触れる,Approach the green sphere visible on the left and touch it
+2,10,上のミラー,右に見える緑玉に接近し触れる,Approach the green sphere visible on the right and touch it
+2,11,Y字段差・左緑玉・右赤玉,左に見える緑玉に接近し触れる,Approach the green sphere visible on the left and touch it
+2,12,上のミラー,右に見える緑玉に接近し触れる,Approach the green sphere visible on the right and touch it
+2,13,Y字平面・左大緑玉・右緑玉,左に見える大きい緑玉に接近し触れる,Approach the large green sphere visible on the left and touch it
+2,14,上のミラー,右に見える大きい緑玉に接近し触れる,Approach the large green sphere visible on the right and touch it
+2,15,I字段差・左大緑玉・右緑玉,左に見える大きい緑玉に接近し触れる,Approach the large green sphere visible on the left and touch it
+2,16,上のミラー,右に見える大きい緑玉に接近し触れる,Approach the large green sphere visible on the right and touch it
+2,17,Y字段差・左大緑玉・右緑玉,左に見える大きい緑玉に接近し触れる,Approach the large green sphere visible on the left and touch it
+2,18,上のミラー,右に見える大きい緑玉に接近し触れる,Approach the large green sphere visible on the right and touch it
+2,19,Y字平面・左特大緑玉・右大緑玉,左に見える大きい緑玉に接近し触れる,Approach the large green sphere visible on the left and touch it
+2,20,上のミラー,右に見える大きい緑玉に接近し触れる,Approach the large green sphere visible on the right and touch it
+2,21,斜面から緑玉が落下,緑玉に接近し触れる,Approach the green sphere and touch it
+2,22,斜面から緑玉が落下・固定の小緑玉は我慢が必要,小緑玉は無視し斜面から落ちてくる大きな緑玉に触れる,Ignore the small green sphere and touch the large green sphere that comes down the ramp
+2,23,斜面から黃玉が落下・固定の小緑玉は我慢が必要,小緑玉は無視し斜面から落ちてくる大きな黃玉に触れた後、小緑玉に触れる,"Ignore the small green sphere at first, touch the large yellow sphere that comes down the ramp, and then touch the small green sphere"
+2,24,斜面から黃玉が落下・固定の近距離小緑玉は我慢が必要,小緑玉は無視し斜面から落ちてくる大きな黃玉に触れた後、小緑玉に触れる,"Ignore the small green sphere at first, touch the large yellow sphere that comes down the ramp, and then touch the small green sphere"
+2,25,レールから黃玉が落下・固定の小緑玉は我慢が必要,小緑玉は無視しレールから落ちてくる大きな黃玉に触れた後、小緑玉に触れる,"Ignore the small green sphere at first, touch the large yellow sphere that drops from the rail, and then touch the small green sphere"
+2,26,レールから黃玉が落下・固定の緑玉は我慢が必要,小緑玉は無視しレールから落ちてくる大きな黃玉に触れた後、小緑玉に触れる,"Ignore the small green sphere at first, touch the large yellow sphere that drops from the rail, and then touch the small green sphere"
+2,27,段差の上に黃玉・取れないので緑玉に向かう必要,段差の上にある黃玉は無視し緑玉に接近し触れる,"Ignore the yellow sphere on top of the raised platform, approach the green sphere, and touch it"
+2,28,レールから黃玉・赤玉が落下,赤玉に触れないよう注意しつつ、黃玉に触れる,"Taking care not to touch the red spheres, touch the yellow spheres"
+2,29,レールから緑玉1と黃玉複数が落下,黃玉がなくなるまで黃玉に先に触れ、最後に緑玉に触れる,"Touch the yellow spheres first until none are left, and touch the green sphere last"
+2,30,斜面やレールから黃玉が落下・緑玉を超えて先にそちらを取得,黃玉がなくなるまで黃玉に先に触れ、最後に緑玉に触れる,"Touch the yellow spheres first until none are left, and touch the green sphere last"
+3,1,中央の壁の裏に緑玉,壁の裏にある緑玉を視界に入れ、接近して触れる,"Bring the green sphere behind the wall into view, approach it, and touch it"
+3,2,端の壁の裏に緑玉,壁の裏にある緑玉を視界に入れ、接近して触れる,"Bring the green sphere behind the wall into view, approach it, and touch it"
+3,3,中央の小さい壁の裏に緑玉,壁の裏にある緑玉を視界に入れ、接近して触れる,"Bring the green sphere behind the wall into view, approach it, and touch it"
+3,4,左奥端の背の低い壁の裏に緑玉,左から壁の裏に回り込んで緑玉に触れる,Go around behind the wall from the left and touch the green sphere
+3,5,左奥端の透明な壁の裏に緑玉,左から透明な壁の裏に回り込んで緑玉に触れる,Go around behind the transparent wall from the left and touch the green sphere
+3,6,I字段差・左の透明な壁の裏に緑玉,左から壁の裏に回り込んで緑玉に触れる,Go around behind the wall from the left and touch the green sphere
+3,7,右奥端の背の低い壁の裏に緑玉,右から壁の裏に回り込んで緑玉に触れる,Go around behind the wall from the right and touch the green sphere
+3,8,右奥端の透明な壁の裏に緑玉,右から透明な壁の裏に回り込んで緑玉に触れる,Go around behind the transparent wall from the right and touch the green sphere
+3,9,I字段差・右の透明な壁の裏に緑玉,右から壁の裏に回り込んで緑玉に触れる,Go around behind the wall from the right and touch the green sphere
+3,10,V字の透明な壁の裏に緑玉,右から透明な壁の裏に大きく回り込んで緑玉に触れる,Take a wide path around the transparent wall from the right and touch the green sphere behind it
+3,11,逆V字の透明な壁の裏に緑玉,右から透明な壁の裏に大きく回り込んで緑玉に触れる,Take a wide path around the transparent wall from the right and touch the green sphere behind it
+3,12,X字の透明な壁の裏に緑玉,右から透明な壁の裏に大きく回り込んで緑玉に触れる,Take a wide path around the transparent wall from the right and touch the green sphere behind it
+3,13,壁トンネルの中に緑玉,トンネルの中にある緑玉に触れる,Touch the green sphere inside the tunnel
+3,14,透明トンネルの中に緑玉,トンネルの中にある緑玉に触れる,Touch the green sphere inside the tunnel
+3,15,長い透明トンネルの中に緑玉,トンネルの中にある緑玉に触れる,Touch the green sphere inside the tunnel
+3,16,斜面を使って段差を登る,斜面を使って段差を登り、緑玉に触れる,Use the ramp to climb onto the raised platform and touch the green sphere
+3,17,斜面を使って段差を登る（上り先小さい）,斜面を使って段差を登り、緑玉に触れる,Use the ramp to climb onto the raised platform and touch the green sphere
+3,18,斜面を使って段差を登り、その後落ちないような移動が必要,斜面を使って段差を登り、段差から落ちないように移動し、緑玉に触れる,"Use the ramp to climb onto the raised platform, move along it without falling off, and touch the green sphere"
+3,19,斜面を使って段差を登り、その後落ちないような移動が必要,斜面を使って段差を登り、段差から落ちないように移動し、緑玉に触れる,"Use the ramp to climb onto the raised platform, move along it without falling off, and touch the green sphere"
+3,20,斜面を使ってジャンプして段差を飛び越える必要,斜面を使ってジャンプして段差を飛び越え、緑玉に触れる,Use the ramp to jump over the raised platform and touch the green sphere
+3,21,左右にある3つの斜面を登る必要あり,右にある斜面を登り、次に左にある斜面を登り、最後に中央の斜面を登って緑玉に触れる,"Climb the ramp on the right, then the ramp on the left, and finally the ramp in the center, and touch the green sphere"
+3,22,押せるブロックの先に緑玉,正面にある押せるブロックを押しのけ、その先にある緑玉に触れる,Push the pushable block in front of you out of the way and touch the green sphere beyond it
+3,23,壁の間に押せるブロックがあり、その先に緑玉,壁の間にある押せるブロックを押しのけて通り抜け、その先にある緑玉に触れる,"Push the pushable block between the walls out of the way, pass through, and touch the green sphere beyond it"
+3,24,壁の間を覆っているブロックがあり、左右に移動させる必要,壁の間を塞いでいるブロックを左右どちらかに押して道を開け、その先にある緑玉に触れる,"Push the block that seals the gap between the walls to the left or right to open a path, and touch the green sphere beyond it"
+3,25,押せるブロックで脱出する必要あり,囲いを塞いでいる押せるブロックを押して外に出て、緑玉に触れる,"Push the pushable block that seals the enclosure, get out, and touch the green sphere"
+3,26,押せるブロックで脱出する必要あり（3段分の重みを動かす勢いが必要？）,囲いを塞いでいる押せるブロックに勢いよくぶつかって押し出し、外に出て緑玉に触れる,"Ram the pushable block that seals the enclosure hard to shove it aside, get out, and touch the green sphere"
+3,27,押せるブロックで2重の囲いを脱出する必要あり,二重の囲いを塞いでいる押せるブロックを順に押して外に出て、緑玉に触れる,"Push the pushable blocks that seal the double enclosure one after another, get out, and touch the green sphere"
+3,28,渦巻状の通路を脱出する必要あり,渦巻状の通路をたどって外に出て、緑玉に触れる,Follow the spiral corridor out and touch the green sphere
+3,29,渦巻状（長め）の通路を脱出する必要あり,長い渦巻状の通路をたどって外に出て、緑玉に触れる,Follow the long spiral corridor out and touch the green sphere
+3,30,斜面を登っていって囲いから飛び出る必要あり,囲いの中にある斜面を登って外に飛び出し、緑玉に触れる,"Climb the ramp inside the enclosure to launch yourself out, and touch the green sphere"
+4,1,赤い即死ゾーン（菱形）の奥に緑玉,赤い即死ゾーンに触れないよう左右どちらかから回り込み、奥にある緑玉に触れる,"Go around the red death zone from either the left or the right without touching it, and touch the green sphere on the far side"
+4,2,赤い即死ゾーン（長方形）の奥に緑玉（左回りが必要）,赤い即死ゾーンに触れないよう左回りに回り込み、奥にある緑玉に触れる,"Go around the red death zone counterclockwise without touching it, and touch the green sphere on the far side"
+4,3,赤い即死ゾーン（ジグザグ）の奥に緑玉,ジグザグに並んだ赤い即死ゾーンの隙間を縫って進み、奥にある緑玉に触れる,Weave through the gaps in the zigzag of red death zones and touch the green sphere on the far side
+4,4,オレンジゾーンの奥に緑玉,オレンジゾーンを最短距離で横切り、奥にある緑玉に触れる,Cross the orange zone by the shortest path and touch the green sphere on the far side
+4,5,オレンジゾーン（帯状）の奥に緑玉,帯状のオレンジゾーンを最短距離で横切り、奥にある緑玉に触れる,Cross the band of orange zone by the shortest path and touch the green sphere on the far side
+4,6,赤い即死ゾーンとオレンジゾーンの交互による帯の奥に緑玉,赤い即死ゾーンには触れずオレンジゾーンだけを踏んで帯を横切り、奥にある緑玉に触れる,"Step only on the orange zones and never on the red death zones as you cross the band, and touch the green sphere on the far side"
+4,7,左側だけオレンジゾーン・右側は空,オレンジゾーンのない右側を通って奥に進み、緑玉に触れる,"Go forward along the right side, which has no orange zone, and touch the green sphere"
+4,8,右側だけオレンジゾーン・左側は空,オレンジゾーンのない左側を通って奥に進み、緑玉に触れる,"Go forward along the left side, which has no orange zone, and touch the green sphere"
+4,9,中央にオレンジゾーン・左右は空,中央のオレンジゾーンを避けて左右どちらかの端を通って奥に進み、緑玉に触れる,"Avoid the orange zone in the center, go forward along either edge, and touch the green sphere"
+4,10,オレンジゾーン・左に赤い即死ゾーン・通行可能の3通り,左の赤い即死ゾーンと右のオレンジゾーンを避け、中央の何もない道をまっすぐ進んで緑玉に触れる,"Avoid the red death zone on the left and the orange zone on the right, walk straight down the empty lane in the center, and touch the green sphere"
+4,11,オレンジゾーン・左に赤い即死ゾーン・通行可能の3通りが2段,1段目は左の赤い即死ゾーンと右のオレンジゾーンを避けて中央を進み、2段目は中央の赤い即死ゾーンと左のオレンジゾーンを避けて右を進み、緑玉に触れる,"On the first band avoid the red death zone on the left and the orange zone on the right and take the center, on the second band avoid the red death zone in the center and the orange zone on the left and take the right, and then touch the green sphere"
+4,12,赤い即死ゾーンによるジグザグ,ジグザグに並んだ赤い即死ゾーンの隙間を縫って進み、奥にある緑玉に触れる,Weave through the gaps in the zigzag of red death zones and touch the green sphere on the far side
+4,13,縁の赤い即死ゾーンの左裏側に緑玉,縁に沿った赤い即死ゾーンに触れないよう左から回り込み、その裏にある緑玉に触れる,"Go around from the left without touching the red death zone along the edge, and touch the green sphere behind it"
+4,14,縁の赤い即死ゾーンの右裏側に緑玉,縁に沿った赤い即死ゾーンに触れないよう右から回り込み、その裏にある緑玉に触れる,"Go around from the right without touching the red death zone along the edge, and touch the green sphere behind it"
+4,15,X字の赤い即死ゾーンの裏側に緑玉,X字に並んだ赤い即死ゾーンに触れないよう隙間から回り込み、その裏にある緑玉に触れる,"Go around through the gaps without touching the X-shaped red death zones, and touch the green sphere behind them"
+4,16,左右分岐・左はオレンジゾーン+巨大緑玉、右は極小緑玉,右の極小緑玉は無視し、左のオレンジゾーンを横切って巨大緑玉に触れる,"Ignore the tiny green sphere on the right, cross the orange zone on the left, and touch the huge green sphere"
+4,17,上のミラー,左の極小緑玉は無視し、右のオレンジゾーンを横切って巨大緑玉に触れる,"Ignore the tiny green sphere on the left, cross the orange zone on the right, and touch the huge green sphere"
+4,18,手前に小さい緑玉・オレンジゾーンの奥に巨大緑玉,手前の小さい緑玉は無視し、オレンジゾーンを横切って奥の巨大緑玉に触れる,"Ignore the small green sphere in front of you, cross the orange zone, and touch the huge green sphere beyond it"
+4,19,赤い即死ゾーンで覆われた3レーンのうち一つだけが奥に繋がっている,赤い即死ゾーンで仕切られた3本のレーンのうち奥まで繋がっているのは一番右のレーンなので、それを進んで緑玉に触れる,"Of the three lanes separated by red death zones only the rightmost one leads all the way through, so take it and touch the green sphere"
+4,20,赤い即死ゾーンで狭い道が構成,赤い即死ゾーンに触れないよう狭い道をたどって進み、緑玉に触れる,Follow the narrow path without touching the red death zones and touch the green sphere
+4,21,赤い即死ゾーンで狭い道が構成,赤い即死ゾーンに触れないよう狭い道をたどって進み、緑玉に触れる,Follow the narrow path without touching the red death zones and touch the green sphere
+4,22,即死ゾーンで覆われており、床高さが足りなかったので修正,赤い即死ゾーンの上に架かった細い足場に乗り、そこから落ちないよう進んで奥の緑玉に触れる,"Get onto the narrow walkway that spans the red death zone, move along it without falling off, and touch the green sphere on the far side"
+4,23,段差の上にレーンによる細い道があり、即死ゾーンの上を通り抜ける必要,段差の上に登り、赤い即死ゾーンの上を通る細い道をたどって緑玉に触れる,"Climb onto the raised platform, follow the narrow path that runs above the red death zone, and touch the green sphere"
+4,24,段差によって道があり、即死ゾーンの上を通り抜ける必要,段差の上をたどって赤い即死ゾーンの上を通り抜け、緑玉に触れる,Follow the raised platforms across the red death zone and touch the green sphere
+4,25,斜面を使って即死ゾーンを飛び越える必要,斜面を使ってジャンプし、赤い即死ゾーンを飛び越えて緑玉に触れる,Use the ramp to jump over the red death zone and touch the green sphere
+4,26,横の斜面を斜めに走り抜けて即死ゾーンを超える必要,横向きの斜面を斜めに走り抜けて赤い即死ゾーンを越え、緑玉に触れる,Run diagonally across the sideways ramp to get past the red death zone and touch the green sphere
+4,27,斜面を使って即死ゾーンを2回飛び越える必要,斜面を使ってジャンプし、赤い即死ゾーンを2回飛び越えて緑玉に触れる,Use the ramps to jump over the red death zone twice and touch the green sphere
+4,28,即死ゾーンのみなので待機,触れられる玉がないので、赤い即死ゾーンに入らないようその場から動かない,"There is nothing to touch, so stay where you are and do not enter the red death zone"
+4,29,即死ゾーン15個+黃玉6個,赤い即死ゾーンに触れないようその間を進み、黃玉に次々と触れる,Move between the red death zones without touching them and touch the yellow spheres one after another
+4,30,即死ゾーンから緑玉が移動してくる,赤い即死ゾーンには入らず、そこから転がり出てくる緑玉を待って触れる,"Do not enter the red death zone, and wait for the green sphere to roll out of it and touch it"
+5,1,T字路の左にのみ緑玉,突き当たりを左に曲がり、その先にある緑玉に触れる,Turn left at the dead end and touch the green sphere beyond it
+5,2,T字路の右にのみ緑玉,突き当たりを右に曲がり、その先にある緑玉に触れる,Turn right at the dead end and touch the green sphere beyond it
+5,3,T字路の両端に黃玉,突き当たりの左右どちらにも黃玉があるので、片方に触れてからもう片方にも触れる,"There is a yellow sphere at each end of the dead end, so touch one and then the other"
+5,4,対角の壁の裏に回り込む必要あり,対角にある壁の裏に回り込み、そこにある緑玉に触れる,Go around behind the wall in the opposite corner and touch the green sphere there
+5,5,壁で縁に作られている細い道の先に緑玉,壁で作られた縁の細い道をたどって進み、その先にある緑玉に触れる,Follow the narrow path made of walls along the edge and touch the green sphere at its end
+5,6,壁で縁に作られている細い道の先に緑玉,壁で作られた縁の細い道をたどって進み、その先にある緑玉に触れる,Follow the narrow path made of walls along the edge and touch the green sphere at its end
+5,7,I字段差・右は空なので左のトンネル内に緑玉があると判断する必要あり,右に降りても何もないので左に降り、トンネルの中にある緑玉に触れる,"Nothing is on the right, so drop down to the left and touch the green sphere inside the tunnel"
+5,8,上のミラー,左に降りても何もないので右に降り、トンネルの中にある緑玉に触れる,"Nothing is on the left, so drop down to the right and touch the green sphere inside the tunnel"
+5,9,I字段差・右は空なので左の壁の裏に緑玉があると判断する必要あり,右に降りても何もないので左に降り、壁の裏にある緑玉に触れる,"Nothing is on the right, so drop down to the left and touch the green sphere behind the wall"
+5,10,上のミラー,左に降りても何もないので右に降り、壁の裏にある緑玉に触れる,"Nothing is on the left, so drop down to the right and touch the green sphere behind the wall"
+5,11,I字段差・右の透明トンネルは空なので左のトンネル内に緑玉があると判断する必要あり,右の透明トンネルは空なので左に降り、トンネルの中にある緑玉に触れる,"The transparent tunnel on the right is empty, so drop down to the left and touch the green sphere inside the tunnel"
+5,12,上のミラー,左の透明トンネルは空なので右に降り、トンネルの中にある緑玉に触れる,"The transparent tunnel on the left is empty, so drop down to the right and touch the green sphere inside the tunnel"
+5,13,柱に勢い良く当たって倒す必要あり・緑玉1,柱に勢いよくぶつかって倒し、落ちてきた緑玉に触れる,Ram the pillar hard to knock it over and touch the green sphere that falls off it
+5,14,柱に勢い良く当たって倒す必要あり・緑玉1,柱に勢いよくぶつかって倒し、落ちてきた緑玉に触れる,Ram the pillar hard to knock it over and touch the green sphere that falls off it
+5,15,移動可能なブロックで緑玉を落とす必要,移動できるブロックを押して緑玉を下に落とし、落ちた緑玉に触れる,"Push the movable block to knock the green sphere down, and touch it where it lands"
+5,16,透明なシーソーの左に緑玉が落ちてきて右に流れるため三択から右を選択,透明なシーソーの左に落ちた緑玉は右に流れるので、三択のうち右を選んで進み、緑玉に触れる,"The green sphere lands on the left of the transparent seesaw and flows to the right, so pick the right of the three choices, go there, and touch the green sphere"
+5,17,上のミラー,透明なシーソーの右に落ちた緑玉は左に流れるので、三択のうち左を選んで進み、緑玉に触れる,"The green sphere lands on the right of the transparent seesaw and flows to the left, so pick the left of the three choices, go there, and touch the green sphere"
+5,18,シーソーの左に緑玉が落ちてきて右に流れるため三択から右を選択,シーソーの左に落ちた緑玉は右に流れるので、三択のうち右を選んで進み、緑玉に触れる,"The green sphere lands on the left of the seesaw and flows to the right, so pick the right of the three choices, go there, and touch the green sphere"
+5,19,上のミラー,シーソーの右に落ちた緑玉は左に流れるので、三択のうち左を選んで進み、緑玉に触れる,"The green sphere lands on the right of the seesaw and flows to the left, so pick the left of the three choices, go there, and touch the green sphere"
+5,20,シーソーの左に緑玉が落ちてきて中央に流れるため三択から中央を選択,シーソーの左に落ちた緑玉は中央に流れるので、三択のうち中央を選んで進み、緑玉に触れる,"The green sphere lands on the left of the seesaw and flows to the center, so pick the center of the three choices, go there, and touch the green sphere"
+5,21,上のミラー,シーソーの右に落ちた緑玉は中央に流れるので、三択のうち中央を選んで進み、緑玉に触れる,"The green sphere lands on the right of the seesaw and flows to the center, so pick the center of the three choices, go there, and touch the green sphere"
+5,22,8本道: 黃玉2個,8本に分かれた道を順に見て回り、道の先にある黃玉に次々と触れる,Go down each of the eight branching paths in turn and touch the yellow spheres at their ends one after another
+5,23,8本道: 黃玉2個・斜面,8本に分かれた道を斜面を登って順に見て回り、道の先にある黃玉に次々と触れる,Climb the ramps to go down each of the eight branching paths in turn and touch the yellow spheres at their ends one after another
+5,24,8本道: 黃玉4個,8本に分かれた道を順に見て回り、道の先にある黃玉に次々と触れる,Go down each of the eight branching paths in turn and touch the yellow spheres at their ends one after another
+5,25,8本道: 黃玉4個・斜面,8本に分かれた道を斜面を登って順に見て回り、道の先にある黃玉に次々と触れる,Climb the ramps to go down each of the eight branching paths in turn and touch the yellow spheres at their ends one after another
+5,26,8本道: 黃玉6個,8本に分かれた道を順に見て回り、道の先にある黃玉に次々と触れる,Go down each of the eight branching paths in turn and touch the yellow spheres at their ends one after another
+5,27,8本道: 黃玉6個・斜面,8本に分かれた道を斜面を登って順に見て回り、道の先にある黃玉に次々と触れる,Climb the ramps to go down each of the eight branching paths in turn and touch the yellow spheres at their ends one after another
+5,28,8本道: 黃玉8個,8本に分かれた道を順に見て回り、道の先にある黃玉に次々と触れる,Go down each of the eight branching paths in turn and touch the yellow spheres at their ends one after another
+5,29,8本道: 黃玉8個・斜面,8本に分かれた道を斜面を登って順に見て回り、道の先にある黃玉に次々と触れる,Climb the ramps to go down each of the eight branching paths in turn and touch the yellow spheres at their ends one after another
+5,30,8本道: 黃玉8個・斜面・中央にボックスが落ちてくる,中央に落ちてくるボックスを避けながら、8本に分かれた道を斜面を登って順に見て回り、道の先にある黃玉に次々と触れる,"Avoiding the box that drops in the center, climb the ramps to go down each of the eight branching paths in turn and touch the yellow spheres at their ends one after another"
+6,1,壁色ランダム: 緑玉1・小四角形,壁の色は毎回変わるが無視し、緑玉に接近し触れる,"The wall colors change every time but mean nothing, so ignore them and approach the green sphere and touch it"
+6,2,壁色ランダム: 緑玉1・大菱形,壁の色は毎回変わるが無視し、緑玉に接近し触れる,"The wall colors change every time but mean nothing, so ignore them and approach the green sphere and touch it"
+6,3,壁色ランダム: 緑玉1・大八角形,壁の色は毎回変わるが無視し、緑玉に接近し触れる,"The wall colors change every time but mean nothing, so ignore them and approach the green sphere and touch it"
+6,4,床色ランダム: 緑玉1・普通のアリーナ,床の色は毎回変わるが無視し、緑玉に接近し触れる,"The floor color changes every time but means nothing, so ignore it and approach the green sphere and touch it"
+6,5,壁色ランダム: 緑玉1・普通のアリーナ,壁の色は毎回変わるが無視し、緑玉に接近し触れる,"The wall colors change every time but mean nothing, so ignore them and approach the green sphere and touch it"
+6,6,壁床色ランダム・緑玉1・普通のアリーナ,壁と床の色は毎回変わるが無視し、緑玉に接近し触れる,"The wall and floor colors change every time but mean nothing, so ignore them and approach the green sphere and touch it"
+6,7,壁床天井色ランダム・緑玉1・普通アリーナ,壁と床と天井の色は毎回変わるが無視し、緑玉に接近し触れる,"The wall, floor, and ceiling colors change every time but mean nothing, so ignore them and approach the green sphere and touch it"
+6,8,壁床天井色ランダム・緑玉1・普通アリーナ・天井低い,壁と床と天井の色は毎回変わるが無視し、緑玉に接近し触れる,"The wall, floor, and ceiling colors change every time but mean nothing, so ignore them and approach the green sphere and touch it"
+6,9,壁床天井色ランダム・緑玉1・普通アリーナ・天井低い,壁と床と天井の色は毎回変わるが無視し、緑玉に接近し触れる,"The wall, floor, and ceiling colors change every time but mean nothing, so ignore them and approach the green sphere and touch it"
+6,10,後ろが透けている細い柵の裏に緑の玉があるので、左右どちらかから回り込んでそれに触れる,柵の裏に見えている緑玉に左右どちらかから回り込んで触れる,Go around from either the left or the right and touch the green sphere visible behind the fence
+6,11,隙間のある壁でV字が形成されているので、左右どちらかから回り込んで緑の玉に触れる,隙間のある壁で作られたV字の裏にある緑玉に、左右どちらかから回り込んで触れる,Go around from either the left or the right and touch the green sphere behind the V-shaped wall that has gaps in it
+6,12,隙間のある壁で逆V字が形成されているので、左右どちらかから回り込んで緑の玉に触れる,隙間のある壁で作られた逆V字の裏にある緑玉に、左右どちらかから回り込んで触れる,Go around from either the left or the right and touch the green sphere behind the inverted V-shaped wall that has gaps in it
+6,13,壁床色ランダム: 赤玉5個横並びの向こうに緑玉1,壁と床の色は毎回変わるが無視し、横一列に並んだ赤玉に触れないよう端から回り込み、その奥にある緑玉に触れる,"The wall and floor colors change every time but mean nothing, so ignore them and go around from an edge without touching the row of red spheres, and touch the green sphere beyond them"
+6,14,壁床色ランダム・緑玉2・黃玉2・赤玉2,壁と床の色は毎回変わるが無視し、赤玉と緑玉に触れないよう注意しつつまず黃玉に触れ、黃玉がなくなったら緑玉に触れる,"The wall and floor colors change every time but mean nothing, so ignore them and taking care not to touch the red or green spheres yet, first touch the yellow spheres, and once they are all gone touch the green spheres"
+6,15,壁床色ランダム・黃玉10・赤玉10,壁と床の色は毎回変わるが無視し、赤玉に触れないよう注意しつつ黃玉に次々と触れる,"The wall and floor colors change every time but mean nothing, so ignore them and taking care not to touch the red spheres, touch the yellow spheres one after another"
+6,16,壁色ランダム・T字路先の左右に黃玉,壁の色は毎回変わるが無視し、突き当たりの左右どちらにもある黃玉に順に触れる,"The wall colors change every time but mean nothing, so ignore them and touch the yellow spheres at each end of the dead end in turn"
+6,17,壁色ランダム・8本道・黃玉2個,壁の色は毎回変わるが無視し、8本に分かれた道を順に見て回り、道の先にある黃玉に次々と触れる,"The wall colors change every time but mean nothing, so ignore them and go down each of the eight branching paths in turn and touch the yellow spheres at their ends one after another"
+6,18,壁色ランダム・8本道・黃玉2個・斜面,壁の色は毎回変わるが無視し、8本に分かれた道を斜面を登って順に見て回り、道の先にある黃玉に次々と触れる,"The wall colors change every time but mean nothing, so ignore them and climb the ramps to go down each of the eight branching paths in turn and touch the yellow spheres at their ends one after another"
+6,19,壁色ランダム・8本道・黃玉4個,壁の色は毎回変わるが無視し、8本に分かれた道を順に見て回り、道の先にある黃玉に次々と触れる,"The wall colors change every time but mean nothing, so ignore them and go down each of the eight branching paths in turn and touch the yellow spheres at their ends one after another"
+6,20,壁色ランダム・8本道・黃玉4個・斜面,壁の色は毎回変わるが無視し、8本に分かれた道を斜面を登って順に見て回り、道の先にある黃玉に次々と触れる,"The wall colors change every time but mean nothing, so ignore them and climb the ramps to go down each of the eight branching paths in turn and touch the yellow spheres at their ends one after another"
+6,21,壁色ランダム・8本道・黃玉6個,壁の色は毎回変わるが無視し、8本に分かれた道を順に見て回り、道の先にある黃玉に次々と触れる,"The wall colors change every time but mean nothing, so ignore them and go down each of the eight branching paths in turn and touch the yellow spheres at their ends one after another"
+6,22,壁色ランダム・8本道・黃玉6個・斜面,壁の色は毎回変わるが無視し、8本に分かれた道を斜面を登って順に見て回り、道の先にある黃玉に次々と触れる,"The wall colors change every time but mean nothing, so ignore them and climb the ramps to go down each of the eight branching paths in turn and touch the yellow spheres at their ends one after another"
+6,23,壁色ランダム・8本道・黃玉8個,壁の色は毎回変わるが無視し、8本に分かれた道を順に見て回り、道の先にある黃玉に次々と触れる,"The wall colors change every time but mean nothing, so ignore them and go down each of the eight branching paths in turn and touch the yellow spheres at their ends one after another"
+6,24,壁色ランダム・8本道・黃玉8個・斜面,壁の色は毎回変わるが無視し、8本に分かれた道を斜面を登って順に見て回り、道の先にある黃玉に次々と触れる,"The wall colors change every time but mean nothing, so ignore them and climb the ramps to go down each of the eight branching paths in turn and touch the yellow spheres at their ends one after another"
+6,25,壁色ランダム・斜面から黃玉・奥に緑玉,壁の色は毎回変わるが無視し、斜面から落ちてくる黃玉に先に触れ、最後に奥の緑玉に触れる,"The wall colors change every time but mean nothing, so ignore them and first touch the yellow spheres that come down the ramp, and touch the green sphere on the far side last"
+6,26,床色ランダム・押せるブロックの向こう側に緑玉,床の色は毎回変わるが無視し、押せるブロックを押しのけてその先にある緑玉に触れる,"The floor color changes every time but means nothing, so ignore it and push the pushable block out of the way and touch the green sphere beyond it"
+6,27,壁色ランダム・斜面を使って囲いから飛び出る,壁の色は毎回変わるが無視し、囲いの中にある斜面を登って外に飛び出し、緑玉に触れる,"The wall colors change every time but mean nothing, so ignore them and climb the ramp inside the enclosure to launch yourself out, and touch the green sphere"
+6,28,壁色ランダム・渦巻状の迷路,壁の色は毎回変わるが無視し、渦巻状の通路をたどって外に出て、緑玉に触れる,"The wall colors change every time but mean nothing, so ignore them and follow the spiral corridor out and touch the green sphere"
+6,29,壁色ランダム・渦巻状の迷路（長）,壁の色は毎回変わるが無視し、長い渦巻状の通路をたどって外に出て、緑玉に触れる,"The wall colors change every time but mean nothing, so ignore them and follow the long spiral corridor out and touch the green sphere"
+6,30,壁色ランダム・斜面を3回登る,壁の色は毎回変わるが無視し、右にある斜面を登り、次に左にある斜面を登り、最後に中央の斜面を登って緑玉に触れる,"The wall colors change every time but mean nothing, so ignore them and climb the ramp on the right, then the ramp on the left, and finally the ramp in the center, and touch the green sphere"
+7,1,暗転・緑玉1,照明が消える前に緑玉の位置を覚え、暗闇の中でもその位置に向かって直進し触れる,"Before the lights go out, memorize where the green sphere is, and walk straight to that spot and touch it even in the dark"
+7,2,暗転・緑玉1,照明が消える前に緑玉の位置を覚え、暗闇の中でもその位置に向かって直進し触れる,"Before the lights go out, memorize where the green sphere is, and walk straight to that spot and touch it even in the dark"
+7,3,暗転・緑玉1,照明が消える前に緑玉の位置を覚え、暗闇の中でもその位置に向かって直進し触れる,"Before the lights go out, memorize where the green sphere is, and walk straight to that spot and touch it even in the dark"
+7,4,暗転・緑玉1,照明が消える前に緑玉の位置を覚え、暗闇の中でもその位置に向かって直進し触れる,"Before the lights go out, memorize where the green sphere is, and walk straight to that spot and touch it even in the dark"
+7,5,暗転・緑玉1,照明が消える前に緑玉の位置を覚え、暗闇の中でもその位置に向かって直進し触れる,"Before the lights go out, memorize where the green sphere is, and walk straight to that spot and touch it even in the dark"
+7,6,暗転・緑玉1,照明が消える前に緑玉の位置を覚え、暗闇の中でもその位置に向かって直進し触れる,"Before the lights go out, memorize where the green sphere is, and walk straight to that spot and touch it even in the dark"
+7,7,暗転・緑玉1,照明が消える前に緑玉の位置を覚え、暗闇の中でもその位置に向かって直進し触れる,"Before the lights go out, memorize where the green sphere is, and walk straight to that spot and touch it even in the dark"
+7,8,暗転・緑玉1,照明が消える前に緑玉の位置を覚え、暗闇の中でもその位置に向かって直進し触れる,"Before the lights go out, memorize where the green sphere is, and walk straight to that spot and touch it even in the dark"
+7,9,暗転・緑玉1,照明が消える前に緑玉の位置を覚え、暗闇の中でもその位置に向かって直進し触れる,"Before the lights go out, memorize where the green sphere is, and walk straight to that spot and touch it even in the dark"
+7,10,暗転・Y字路左に緑玉、右は空,照明が消える前に緑玉が左にあることを覚え、暗闇の中でも左に進んで緑玉に触れる,"Before the lights go out, memorize that the green sphere is on the left, and go left and touch it even in the dark"
+7,11,上のミラー,照明が消える前に緑玉が右にあることを覚え、暗闇の中でも右に進んで緑玉に触れる,"Before the lights go out, memorize that the green sphere is on the right, and go right and touch it even in the dark"
+7,12,暗転・Y字路左に緑玉、右は赤玉,照明が消える前に緑玉が左、赤玉が右にあることを覚え、暗闇の中でも左に進んで緑玉に触れる,"Before the lights go out, memorize that the green sphere is on the left and the red sphere on the right, and go left and touch the green sphere even in the dark"
+7,13,上のミラー,照明が消える前に緑玉が右、赤玉が左にあることを覚え、暗闇の中でも右に進んで緑玉に触れる,"Before the lights go out, memorize that the green sphere is on the right and the red sphere on the left, and go right and touch the green sphere even in the dark"
+7,14,暗転・斜面から緑玉,照明が消える前に斜面から緑玉が落ちてくる位置を覚え、暗闇の中でもその位置に向かって進み緑玉に触れる,"Before the lights go out, memorize where the green sphere comes down from the ramp, and head to that spot and touch it even in the dark"
+7,15,暗転・斜面から緑玉1、赤玉2,照明が消える前に緑玉と赤玉が落ちてくる位置を覚え、暗闇の中でも赤玉を避けて緑玉の位置に向かい触れる,"Before the lights go out, memorize where the green and red spheres come down, and head to the green sphere while avoiding the red ones and touch it even in the dark"
+7,16,暗転・菱形の即死ゾーンの向こうに緑玉,照明が消える前に菱形の赤い即死ゾーンと緑玉の位置を覚え、暗闇の中でも即死ゾーンを避けて回り込み緑玉に触れる,"Before the lights go out, memorize the diamond-shaped red death zone and the green sphere, and go around the death zone and touch the green sphere even in the dark"
+7,17,暗転・長方形の即死ゾーンを左回りする,照明が消える前に長方形の赤い即死ゾーンと緑玉の位置を覚え、暗闇の中でも左回りに回り込んで緑玉に触れる,"Before the lights go out, memorize the rectangular red death zone and the green sphere, and go around it counterclockwise and touch the green sphere even in the dark"
+7,18,暗転・ジグザグの即死ゾーンを通り抜ける,照明が消える前にジグザグの赤い即死ゾーンと緑玉の位置を覚え、暗闇の中でも隙間を縫って進み緑玉に触れる,"Before the lights go out, memorize the zigzag red death zones and the green sphere, and weave through the gaps and touch the green sphere even in the dark"
+7,19,暗転・緑玉がレールから落ちるのを待つ,照明が消える前にレールの位置を覚え、暗闇の中でもレールから緑玉が落ちてくるのを待ち、落ちた緑玉に触れる,"Before the lights go out, memorize where the rail is, wait in the dark for the green sphere to drop from it, and touch the sphere where it lands"
+7,20,暗転・緑玉がレールから落ちるのを待つ,照明が消える前にレールの位置を覚え、暗闇の中でもレールから緑玉が落ちてくるのを待ち、落ちた緑玉に触れる,"Before the lights go out, memorize where the rail is, wait in the dark for the green sphere to drop from it, and touch the sphere where it lands"
+7,21,暗転・緑玉1と赤玉1がレールから落ちるのを待つ,照明が消える前にレールの位置を覚え、暗闇の中でも赤玉を避けつつレールから落ちてきた緑玉に触れる,"Before the lights go out, memorize where the rail is, and in the dark avoid the red sphere and touch the green sphere that drops from the rail"
+7,22,暗転・緑玉がレールから落ちるのを待つ,照明が消える前にレールの位置を覚え、暗闇の中でもレールから緑玉が落ちてくるのを待ち、落ちた緑玉に触れる,"Before the lights go out, memorize where the rail is, wait in the dark for the green sphere to drop from it, and touch the sphere where it lands"
+7,23,暗転・黃玉3がレールから落ちるのを待つ,照明が消える前にレールの位置を覚え、暗闇の中でもレールから落ちてきた黃玉3個に順に触れる,"Before the lights go out, memorize where the rail is, and in the dark touch the three yellow spheres that drop from it one after another"
+7,24,暗転・緑玉1が斜面から落ちるのを待つ,照明が消える前に斜面の位置を覚え、暗闇の中でも斜面から緑玉が落ちてくるのを待ち、落ちた緑玉に触れる,"Before the lights go out, memorize where the ramp is, wait in the dark for the green sphere to come down it, and touch the sphere where it lands"
+7,25,暗転・黃玉3,照明が消える前に黃玉3個の位置を覚え、暗闇の中でもそれぞれの位置に向かって順に触れる,"Before the lights go out, memorize where the three yellow spheres are, and head to each spot in turn and touch them even in the dark"
+7,26,暗転・透明なV字壁の向こうに緑玉1,照明が消える前に透明なV字の壁と緑玉の位置を覚え、暗闇の中でも回り込んで緑玉に触れる,"Before the lights go out, memorize the transparent V-shaped wall and the green sphere, and go around and touch the sphere even in the dark"
+7,27,暗転・透明なX字壁の向こうに緑玉1,照明が消える前に透明なX字の壁と緑玉の位置を覚え、暗闇の中でも回り込んで緑玉に触れる,"Before the lights go out, memorize the transparent X-shaped wall and the green sphere, and go around and touch the sphere even in the dark"
+7,28,暗転・8本道・黃玉4,照明が消える前に黃玉のある道を覚え、暗闇の中でも8本に分かれた道を順にたどり黃玉に次々と触れる,"Before the lights go out, memorize which paths have yellow spheres, and follow the eight branching paths in turn in the dark and touch the yellow spheres one after another"
+7,29,暗転・8本道・黃玉4・斜面,照明が消える前に黃玉のある道を覚え、暗闇の中でも8本に分かれた道を斜面を登って順にたどり黃玉に次々と触れる,"Before the lights go out, memorize which paths have yellow spheres, and climb the ramps to follow the eight branching paths in turn in the dark and touch the yellow spheres one after another"
+7,30,暗転・8本道・黃玉8,照明が消える前に黃玉のある道を覚え、暗闇の中でも8本に分かれた道を順にたどり黃玉に次々と触れる,"Before the lights go out, memorize which paths have yellow spheres, and follow the eight branching paths in turn in the dark and touch the yellow spheres one after another"
+8,1,中央と左の壁の裏に黃い玉が落ちていくのが見えるのでそれを触る,黃玉が中央と左の壁の裏に落ちていくのを見て位置を覚え、それぞれの壁の裏に回り込んで黃玉に触れる,"Watch the yellow spheres drop behind the center and left walls, memorize where they land, go around behind each wall, and touch them"
+8,2,中央と右の壁の裏に黃い玉が隠れているのでそれを触る（落ちていた？）,黃玉が中央と右の壁の裏に隠れるのを見て位置を覚え、それぞれの壁の裏に回り込んで黃玉に触れる,"Watch the yellow spheres go behind the center and right walls, memorize where they are, go around behind each wall, and touch them"
+8,3,右と左に黃い玉が落ちていくのが見えるので、壁の裏側へ行ってそれらに触る,黃玉が左右の壁の裏に落ちていくのを見て位置を覚え、それぞれの壁の裏に回り込んで黃玉に触れる,"Watch the yellow spheres drop behind the left and right walls, memorize where they land, go around behind each wall, and touch them"
+8,4,中央と左に黃い玉が落ちていくのが見えるので、斜面を乗り越えてそれらを触る,黃玉が中央と左に落ちていくのを見て位置を覚え、斜面を乗り越えてそれぞれの黃玉に触れる,"Watch the yellow spheres drop in the center and on the left, memorize where they land, climb over the ramp, and touch each of them"
+8,5,右と左に黃い玉が落ちてくるのが見えるので、紫色の斜面を乗り越えてそれらに触る,黃玉が左右に落ちてくるのを見て位置を覚え、紫色の斜面を乗り越えてそれぞれの黃玉に触れる,"Watch the yellow spheres drop on the left and on the right, memorize where they land, climb over the purple ramp, and touch each of them"
+8,6,真ん中と右に黃い玉が落ちてくるのが見えるので、紫色の斜面を乗り越えてそれらに触る,黃玉が中央と右に落ちてくるのを見て位置を覚え、紫色の斜面を乗り越えてそれぞれの黃玉に触れる,"Watch the yellow spheres drop in the center and on the right, memorize where they land, climb over the purple ramp, and touch each of them"
+8,7,すぐ見える小さい緑の玉は無視して、壁の向こう側に落ちていくのが見える大きい緑の玉に触る,手前の小さい緑玉は無視し、壁の向こう側に落ちていく大きい緑玉の位置を覚え、壁を回り込んでその緑玉に触れる,"Ignore the small green sphere in front of you, memorize where the large green sphere drops on the far side of the wall, go around the wall, and touch that sphere"
+8,8,小さい緑の玉は無視して、奥に転がっていく大きな緑の玉を追いかけて触る,小さい緑玉は無視し、奥に転がっていく大きい緑玉を追いかけて触れる,Ignore the small green sphere and chase the large green sphere rolling away from you and touch it
+8,9,小さい緑の玉は無視して、動いている大きな緑の玉に触る,小さい緑玉は無視し、動いている大きい緑玉を追いかけて触れる,Ignore the small green sphere and chase the moving large green sphere and touch it
+8,10,緑の玉が左手前の穴に落ちるのが見えるので、追いかけて触る,緑玉が左手前の穴に落ちるのを見て、その穴まで進み落ちた緑玉に触れる,"Watch the green sphere fall into the near-left hole, go to that hole, and touch the sphere where it landed"
+8,11,緑の玉がどれかの穴に落ちるので、追いかけて触る,緑玉がどの穴に落ちたかを見て覚え、その穴まで進み落ちた緑玉に触れる,"Watch which hole the green sphere falls into and memorize it, go to that hole, and touch the sphere where it landed"
+8,12,緑の玉が左奥の穴に落ちていくのが見えるので、追いかけて触る,緑玉が左奥の穴に落ちるのを見て、その穴まで進み落ちた緑玉に触れる,"Watch the green sphere fall into the far-left hole, go to that hole, and touch the sphere where it landed"
+8,13,緑の玉が左右の斜面で行ったりきたりするので、触る,左右の斜面を行き来する緑玉の動きに合わせて近づき、緑玉に触れる,"Move in step with the green sphere as it rolls back and forth between the ramps on the left and right, and touch it"
+8,14,緑の玉が左右の斜面で行ったりきたりするので、触る,左右の斜面を行き来する緑玉の動きに合わせて近づき、緑玉に触れる,"Move in step with the green sphere as it rolls back and forth between the ramps on the left and right, and touch it"
+8,15,緑玉が左に動いていくのが見えるので左に行って緑玉に触る,左に動いていく緑玉を追いかけて左に進み、緑玉に触れる,"Chase the green sphere moving to the left, go left, and touch it"
+8,16,緑玉が右に動いていくのが見えるので右に行って緑玉に触る,右に動いていく緑玉を追いかけて右に進み、緑玉に触れる,"Chase the green sphere moving to the right, go right, and touch it"
+8,17,正面にガラスがあり、緑玉が左に転がっていくのが見えるので、追いかけて触る,正面のガラスは通り抜けられないので、左に転がっていく緑玉を左から回り込んで追いかけ、触れる,"The glass in front of you cannot be passed through, so chase the green sphere rolling to the left by going around from the left, and touch it"
+8,18,正面にガラスがあり、緑玉が右に転がっていくのが見えるので、追いかけて触る,正面のガラスは通り抜けられないので、右に転がっていく緑玉を右から回り込んで追いかけ、触れる,"The glass in front of you cannot be passed through, so chase the green sphere rolling to the right by going around from the right, and touch it"
+8,19,緑の玉が転がっていくので、左から回り込んで触る,途中で暗くなるが、正面は通れないので左から回り込み、転がっていく緑玉を追いかけて触れる,"The lights go out partway through and you cannot go straight ahead, so go around from the left, chase the rolling green sphere, and touch it"
+8,20,上のミラー,途中で暗くなるが、正面は通れないので右から回り込み、転がっていく緑玉を追いかけて触れる,"The lights go out partway through and you cannot go straight ahead, so go around from the right, chase the rolling green sphere, and touch it"
+8,21,左右にある小さい緑の玉は無視して、大きい緑の玉が左に転がっていくので左側から回り込んで触る,左右の小さい緑玉は無視し、途中で暗くなっても左に転がっていく大きい緑玉を左から回り込んで追いかけ、触れる,"Ignore the small green spheres on the left and right, and even after the lights go out chase the large green sphere rolling to the left by going around from the left, and touch it"
+8,22,上のミラー,左右の小さい緑玉は無視し、途中で暗くなっても右に転がっていく大きい緑玉を右から回り込んで追いかけ、触れる,"Ignore the small green spheres on the left and right, and even after the lights go out chase the large green sphere rolling to the right by going around from the right, and touch it"
+8,23,緑の玉が転がっていくので、左から回り込んで触る（右に透明な壁有り）,右は透明な壁で通れないので、途中で暗くなっても転がっていく緑玉を左から回り込んで追いかけ、触れる,"The right is blocked by a transparent wall, so even after the lights go out chase the rolling green sphere by going around from the left, and touch it"
+8,24,上のミラー,左は透明な壁で通れないので、途中で暗くなっても転がっていく緑玉を右から回り込んで追いかけ、触れる,"The left is blocked by a transparent wall, so even after the lights go out chase the rolling green sphere by going around from the right, and touch it"
+8,25,緑の玉が転がっていくので、左から回り込んで触る（右に棒状の壁有り）,右は棒状の壁で塞がれているので、途中で暗くなっても転がっていく緑玉を左から回り込んで追いかけ、触れる,"The right is blocked by a bar-shaped wall, so even after the lights go out chase the rolling green sphere by going around from the left, and touch it"
+8,26,上のミラー,左は棒状の壁で塞がれているので、途中で暗くなっても転がっていく緑玉を右から回り込んで追いかけ、触れる,"The left is blocked by a bar-shaped wall, so even after the lights go out chase the rolling green sphere by going around from the right, and touch it"
+8,27,緑の玉が転がっていくので、左から回り込んで触る（右に低い壁有り）,右は低い壁で塞がれているので、途中で暗くなっても転がっていく緑玉を左から回り込んで追いかけ、触れる,"The right is blocked by a low wall, so even after the lights go out chase the rolling green sphere by going around from the left, and touch it"
+8,28,上のミラー,左は低い壁で塞がれているので、途中で暗くなっても転がっていく緑玉を右から回り込んで追いかけ、触れる,"The left is blocked by a low wall, so even after the lights go out chase the rolling green sphere by going around from the right, and touch it"
+8,29,玉が引っかかってクリア不可能だったので修正,途中で暗くなるが、正面は通れないので左から回り込み、転がっていく緑玉を追いかけて触れる,"The lights go out partway through and you cannot go straight ahead, so go around from the left, chase the rolling green sphere, and touch it"
+8,30,玉が引っかかってクリア不可能だったので修正,途中で暗くなるが、正面は通れないので右から回り込み、転がっていく緑玉を追いかけて触れる,"The lights go out partway through and you cannot go straight ahead, so go around from the right, chase the rolling green sphere, and touch it"
+9,1,左1個、右空なので左に降りる,右の区画には黃玉がなく左に1個あるので、左に降りて黃玉に触れる,"The right side has no yellow spheres and the left has one, so drop down to the left and touch it"
+9,2,左の方が明らかに多いので左に降りる,左右の区画にある黃玉の数を比べ、明らかに多い左に降りて黃玉に次々と触れる,"Compare the number of yellow spheres on each side, and since the left clearly has more, so drop down to the left and touch the yellow spheres one after another"
+9,3,左に6個、右に3個なので左に降りる,左の区画に6個、右に3個の黃玉があるので、左に降りて黃玉に次々と触れる,"The left side has six yellow spheres and the right has three, so drop down to the left and touch the yellow spheres one after another"
+9,4,右6個、左2個なので右に降りる,右の区画に6個、左に2個の黃玉があるので、右に降りて黃玉に次々と触れる,"The right side has six yellow spheres and the left has two, so drop down to the right and touch the yellow spheres one after another"
+9,5,右6個、左4個なので右に降りる,右の区画に6個、左に4個の黃玉があるので、右に降りて黃玉に次々と触れる,"The right side has six yellow spheres and the left has four, so drop down to the right and touch the yellow spheres one after another"
+9,6,右4個、左3個なので右に降りる,右の区画に4個、左に3個の黃玉があるので、右に降りて黃玉に次々と触れる,"The right side has four yellow spheres and the left has three, so drop down to the right and touch the yellow spheres one after another"
+9,7,左3個、右2個なので左に降りる,左の区画に3個、右に2個の黃玉があるので、左に降りて黃玉に次々と触れる,"The left side has three yellow spheres and the right has two, so drop down to the left and touch the yellow spheres one after another"
+9,8,右2個、左1個なので右に降りる,右の区画に2個、左に1個の黃玉があるので、右に降りて黃玉に次々と触れる,"The right side has two yellow spheres and the left has one, so drop down to the right and touch the yellow spheres one after another"
+9,9,左4個、右1個なので左に降りる,左の区画に4個、右に1個の黃玉があるので、左に降りて黃玉に次々と触れる,"The left side has four yellow spheres and the right has one, so drop down to the left and touch the yellow spheres one after another"
+9,10,右4個、左2個なので右に降りる,右の区画に4個、左に2個の黃玉があるので、右に降りて黃玉に次々と触れる,"The right side has four yellow spheres and the left has two, so drop down to the right and touch the yellow spheres one after another"
+9,11,右の方が多いので右に降りる,左右の区画にある黃玉の数を比べ、多い右に降りて黃玉に次々と触れる,"Compare the number of yellow spheres on each side, and since the right has more, so drop down to the right and touch the yellow spheres one after another"
+9,12,左5個、右3個なので左に降りる,左の区画に5個、右に3個の黃玉があるので、左に降りて黃玉に次々と触れる,"The left side has five yellow spheres and the right has three, so drop down to the left and touch the yellow spheres one after another"
+9,13,右に3個、左に1個流れていくので右に降りる,黃玉が右の区画に3個、左に1個転がって入っていくので、右に降りて黃玉に次々と触れる,"Three yellow spheres roll into the right side and one into the left, so drop down to the right and touch the yellow spheres one after another"
+9,14,左に3個、右に1個流れていくので左に降りる,黃玉が左の区画に3個、右に1個転がって入っていくので、左に降りて黃玉に次々と触れる,"Three yellow spheres roll into the left side and one into the right, so drop down to the left and touch the yellow spheres one after another"
+9,15,右に2個、左に1個流れていくので右に降りる,黃玉が右の区画に2個、左に1個転がって入っていくので、右に降りて黃玉に次々と触れる,"Two yellow spheres roll into the right side and one into the left, so drop down to the right and touch the yellow spheres one after another"
+9,16,左に2個、右に1個流れていくので左に降りる,黃玉が左の区画に2個、右に1個転がって入っていくので、左に降りて黃玉に次々と触れる,"Two yellow spheres roll into the left side and one into the right, so drop down to the left and touch the yellow spheres one after another"
+9,17,右に3個、左に2個流れていくので右に降りる,黃玉が右の区画に3個、左に2個転がって入っていくので、右に降りて黃玉に次々と触れる,"Three yellow spheres roll into the right side and two into the left, so drop down to the right and touch the yellow spheres one after another"
+9,18,左に3個、右に2個流れていくので左に降りる,黃玉が左の区画に3個、右に2個転がって入っていくので、左に降りて黃玉に次々と触れる,"Three yellow spheres roll into the left side and two into the right, so drop down to the left and touch the yellow spheres one after another"
+9,19,左にもともと2個、右に1個流れていくので左に降りる,左の区画にはもともと2個の黃玉があり、右には1個転がって入っていくので、左に降りて黃玉に次々と触れる,"The left side already has two yellow spheres and one rolls into the right, so drop down to the left and touch the yellow spheres one after another"
+9,20,左に1個流れていき、右にはもともと2個あるので右に降りる,左には1個の黃玉が転がって入っていき、右の区画にはもともと2個あるので、右に降りて黃玉に次々と触れる,"One yellow sphere rolls into the left while the right side already has two, so drop down to the right and touch the yellow spheres one after another"
+9,21,左に2個、右に3個流れていくので右に降りる,黃玉が右の区画に3個、左に2個転がって入っていくので、右に降りて黃玉に次々と触れる,"Three yellow spheres roll into the right side and two into the left, so drop down to the right and touch the yellow spheres one after another"
+9,22,右にもともと2個、左に3個流れていくのが見えるので、左に降りる,右の区画にはもともと2個の黃玉があり、左には3個転がって入っていくので、左に降りて黃玉に次々と触れる,"The right side already has two yellow spheres and three roll into the left, so drop down to the left and touch the yellow spheres one after another"
+9,23,右に3個、左に1個+元から1個であるため、右に降りる,右の区画には3個の黃玉があり、左はもともとの1個と転がって入る1個で2個になるので、右に降りて黃玉に次々と触れる,"The right side has three yellow spheres while the left ends up with two (one already there plus one that rolls in), so drop down to the right and touch the yellow spheres one after another"
+9,24,左に3個、右にもともと1個+1個流れていくので左に降りる,左の区画には3個の黃玉があり、右はもともとの1個と転がって入る1個で2個になるので、左に降りて黃玉に次々と触れる,"The left side has three yellow spheres while the right ends up with two (one already there plus one that rolls in), so drop down to the left and touch the yellow spheres one after another"
+9,25,左にもともと2個+1個、右にもともと1個+3個なので右に降りる,左の区画は黃玉が合わせて3個、右は合わせて4個になるので、右に降りて黃玉に次々と触れる,"The left side ends up with three yellow spheres in total and the right with four, so drop down to the right and touch the yellow spheres one after another"
+9,26,左にもともと1個+3個、右にもともと2個+1個なので左に降りる,左の区画は黃玉が合わせて4個、右は合わせて3個になるので、左に降りて黃玉に次々と触れる,"The left side ends up with four yellow spheres in total and the right with three, so drop down to the left and touch the yellow spheres one after another"
+9,27,左に巨大5個+オレンジゾーン、右に小さいの5個なので、左に降りる,右の小さい黃玉より左の巨大な黃玉の方が得点が高いので、オレンジゾーンを通ってでも左に降り、黃玉に次々と触れる,"The huge yellow spheres on the left are worth more than the small ones on the right, so drop down to the left even though that means crossing the orange zone, and touch them one after another"
+9,28,右奥5個、右手前4個、左奥3個、左手前2個なので右奥に降りる,4つの区画のうち右奥が5個で最も多いので、右奥に降りて黃玉に次々と触れる,"Of the four sections the far-right one has the most with five, so drop down into it and touch the yellow spheres one after another"
+9,29,左奥が大きいの2個+1個で5点、右奥も5点？ 左手前と右手前は少ない,4つの区画のうち左奥の黃玉が合計で最も大きいので、左奥に降りて黃玉に次々と触れる,"Of the four sections the far-left one has the largest yellow spheres in total, so drop down into it and touch them one after another"
+9,30,左奥が小さい5個、右奥が中くらい1個かつ小1個、左手前は巨大1個、右手前は巨大と小1個なので右に降りる,4つの区画のうち右奥の黃玉が合計で最も大きいので、右奥に降りて黃玉に次々と触れる,"Of the four sections the far-right one has the largest yellow spheres in total, so drop down into it and touch them one after another"
+10,1,危険ゾーンに触らないようにブロックを動かして緑玉を危険ゾーンから外に転がして触る（支えあり）,赤い即死ゾーンに触れないようブロックを押し、緑玉を即死ゾーンの外に転がしてから触れる,"Push the block without touching the red death zone so that the green sphere rolls out of the zone, and then touch it"
+10,2,危険ゾーンに触らないようにブロックを動かして緑玉を危険ゾーンから外に転がして触る（支えなし、配置は最初から適切）,赤い即死ゾーンに触れないようブロックを押し、緑玉を即死ゾーンの外に転がしてから触れる,"Push the block without touching the red death zone so that the green sphere rolls out of the zone, and then touch it"
+10,3,危険ゾーンに触らないようにブロックを動かして緑玉を危険ゾーンから外に転がして触る（調整必要）,赤い即死ゾーンに触れないようブロックの位置を調整しながら押し、緑玉を即死ゾーンの外に転がしてから触れる,"Push the block while adjusting its position and without touching the red death zone so that the green sphere rolls out of the zone, and then touch it"
+10,4,危険ゾーンに触らないようにコの字ブロックを動かし、緑玉を危険ゾーンの外に転がす,赤い即死ゾーンに触れないようコの字ブロックを押し、緑玉を即死ゾーンの外に転がしてから触れる,"Push the U-shaped block without touching the red death zone so that the green sphere rolls out of the zone, and then touch it"
+10,5,危険ゾーンに触らないようにコの字ブロックを動かし、緑玉を危険ゾーンの外に転がす,赤い即死ゾーンに触れないようコの字ブロックを押し、緑玉を即死ゾーンの外に転がしてから触れる,"Push the U-shaped block without touching the red death zone so that the green sphere rolls out of the zone, and then touch it"
+10,6,段差の上にあるコの字ブロックを動かし、緑玉を危険ゾーンの外に転がす,段差の上にあるコの字ブロックを押し、緑玉を赤い即死ゾーンの外に転がしてから触れる,"Push the U-shaped block on the raised platform so that the green sphere rolls out of the red death zone, and then touch it"
+10,7,I字段差: 左は緑玉だけがある。右に降りてコの字ブロックを動かし、緑玉を危険ゾーンの外に転がす,左に降りても緑玉を取り出せないので右に降り、コの字ブロックを押して緑玉を赤い即死ゾーンの外に転がしてから触れる,"Dropping down to the left will not get the green sphere out, so drop down to the right, push the U-shaped block so that the green sphere rolls out of the red death zone, and touch it"
+10,8,I字段差: 左はLの字ブロックと緑玉がある。右に降りてコの字ブロックを動かし、緑玉を危険ゾーンの外に転がして触る,左に降りても緑玉を取り出せないので右に降り、コの字ブロックを押して緑玉を赤い即死ゾーンの外に転がしてから触れる,"Dropping down to the left will not get the green sphere out, so drop down to the right, push the U-shaped block so that the green sphere rolls out of the red death zone, and touch it"
+10,9,I字段差: 左はLの字ブロックと緑玉がある。右に降りてコの字ブロックを動かし、緑玉を危険ゾーンの外に転がして触る,左に降りても緑玉を取り出せないので右に降り、コの字ブロックを押して緑玉を赤い即死ゾーンの外に転がしてから触れる,"Dropping down to the left will not get the green sphere out, so drop down to the right, push the U-shaped block so that the green sphere rolls out of the red death zone, and touch it"
+10,10,I字段差: 右は緑玉だけがある。左に降りてコの字ブロックを動かし、緑玉を危険ゾーンの外に転がす,右に降りても緑玉を取り出せないので左に降り、コの字ブロックを押して緑玉を赤い即死ゾーンの外に転がしてから触れる,"Dropping down to the right will not get the green sphere out, so drop down to the left, push the U-shaped block so that the green sphere rolls out of the red death zone, and touch it"
+10,11,I字段差: 右はLの字ブロックと緑玉がある。左に降りてコの字ブロックを動かし、緑玉を危険ゾーンの外に転がして触る,右に降りても緑玉を取り出せないので左に降り、コの字ブロックを押して緑玉を赤い即死ゾーンの外に転がしてから触れる,"Dropping down to the right will not get the green sphere out, so drop down to the left, push the U-shaped block so that the green sphere rolls out of the red death zone, and touch it"
+10,12,I字段差: 右はLの字ブロックと緑玉がある。左に降りてコの字ブロックを動かし、緑玉を危険ゾーンの外に転がして触る,右に降りても緑玉を取り出せないので左に降り、コの字ブロックを押して緑玉を赤い即死ゾーンの外に転がしてから触れる,"Dropping down to the right will not get the green sphere out, so drop down to the left, push the U-shaped block so that the green sphere rolls out of the red death zone, and touch it"
+10,13,I字段差: 左は緑玉とコの字ブロックがある。右はちぎれたコの字ブロックがある。左に降りてコの字ブロックを動かし、緑玉を危険ゾーンの外に転がす,右のコの字ブロックはちぎれていて使えないので左に降り、コの字ブロックを押して緑玉を赤い即死ゾーンの外に転がしてから触れる,"The U-shaped block on the right is broken and cannot be used, so drop down to the left, push the U-shaped block so that the green sphere rolls out of the red death zone, and touch it"
+10,14,I字段差: 左はコの字ブロックの外側に緑玉がある。右に降りてコの字ブロックを動かし、緑玉を危険ゾーンの外に転がして触る,左に降りても緑玉を取り出せないので右に降り、コの字ブロックを押して緑玉を赤い即死ゾーンの外に転がしてから触れる,"Dropping down to the left will not get the green sphere out, so drop down to the right, push the U-shaped block so that the green sphere rolls out of the red death zone, and touch it"
+10,15,I字段差: 左は緑玉ととても短いコの字ブロックがある。右に降りてコの字ブロックを動かし、緑玉を危険ゾーンの外に転がす,左に降りても緑玉を取り出せないので右に降り、コの字ブロックを押して緑玉を赤い即死ゾーンの外に転がしてから触れる,"Dropping down to the left will not get the green sphere out, so drop down to the right, push the U-shaped block so that the green sphere rolls out of the red death zone, and touch it"
+10,16,I字段差: 左はちぎれたコの字ブロックと緑玉がある。右に降りてコの字ブロックを動かし、緑玉を危険ゾーンの外に転がして触る,左に降りても緑玉を取り出せないので右に降り、コの字ブロックを押して緑玉を赤い即死ゾーンの外に転がしてから触れる,"Dropping down to the left will not get the green sphere out, so drop down to the right, push the U-shaped block so that the green sphere rolls out of the red death zone, and touch it"
+10,17,I字段差: 右はコの字ブロックの外側に緑玉がある。左に降りてコの字ブロックを動かし、緑玉を危険ゾーンの外に転がして触る,右に降りても緑玉を取り出せないので左に降り、コの字ブロックを押して緑玉を赤い即死ゾーンの外に転がしてから触れる,"Dropping down to the right will not get the green sphere out, so drop down to the left, push the U-shaped block so that the green sphere rolls out of the red death zone, and touch it"
+10,18,I字段差: 右は緑玉ととても短いコの字ブロックがある。左に降りてコの字ブロックを動かし、緑玉を危険ゾーンの外に転がす,右に降りても緑玉を取り出せないので左に降り、コの字ブロックを押して緑玉を赤い即死ゾーンの外に転がしてから触れる,"Dropping down to the right will not get the green sphere out, so drop down to the left, push the U-shaped block so that the green sphere rolls out of the red death zone, and touch it"
+10,19,1段降りたところにあるブロックを下に落とし、それを緑玉にぶつけて緑玉を棒から落として触る,1段下にあるブロックを下に落とし、それを緑玉にぶつけて棒から落とし、落ちた緑玉に触れる,"Knock the block on the level below down, hit the green sphere with it so that the sphere falls off the bar, and touch the sphere where it lands"
+10,20,1段降りたところにある動くブロックを下に落とし、それを緑玉にぶつけて緑玉を棒から落として触る,1段下にあるブロックを下に落とし、それを緑玉にぶつけて棒から落とし、落ちた緑玉に触れる,"Knock the block on the level below down, hit the green sphere with it so that the sphere falls off the bar, and touch the sphere where it lands"
+10,21,右に1段降りたところにある動くブロックを下に落とし、それを緑玉にぶつけて緑玉を棒から落として触る,右に1段下りたところにあるブロックを下に落とし、それを緑玉にぶつけて棒から落とし、落ちた緑玉に触れる,"Knock the block on the level below to the right down, hit the green sphere with it so that the sphere falls off the bar, and touch the sphere where it lands"
+10,22,斜面と段差の間にブロックを移動させて足場を作ってから斜面を上り、段差の上に移動して緑玉に触る,斜面と段差の間にブロックを押して足場を作り、斜面を登って段差の上に移動し、緑玉に触れる,"Push a block into the gap between the ramp and the raised platform to make a foothold, climb the ramp onto the platform, and touch the green sphere"
+10,23,斜面と段差の間にブロックを移動させて足場を作ってから斜面を上り、段差の上に移動して緑玉に触る,斜面と段差の間にブロックを押して足場を作り、斜面を登って段差の上に移動し、緑玉に触れる,"Push a block into the gap between the ramp and the raised platform to make a foothold, climb the ramp onto the platform, and touch the green sphere"
+10,24,斜面と段差の間にブロックを2つ移動させて足場を作ってから斜面を上り、段差の上に移動して緑玉に触る,斜面と段差の間にブロックを2つ押して足場を作り、斜面を登って段差の上に移動し、緑玉に触れる,"Push two blocks into the gap between the ramp and the raised platform to make a foothold, climb the ramp onto the platform, and touch the green sphere"
+10,25,左右どちらかのブロックに勢い良くぶつかって押し出し、緑の玉に触れる,左右どちらかのブロックに勢いよくぶつかって押し出し、その先にある緑玉に触れる,"Ram either the left or the right block hard to shove it out of the way, and touch the green sphere beyond it"
+10,26,右のブロックに勢い良くぶつかって押し出し、緑の玉に触れる,右のブロックに勢いよくぶつかって押し出し、その先にある緑玉に触れる,"Ram the right block hard to shove it out of the way, and touch the green sphere beyond it"
+10,27,左のブロックに勢い良くぶつかって押し出し、緑の玉に触れる,左のブロックに勢いよくぶつかって押し出し、その先にある緑玉に触れる,"Ram the left block hard to shove it out of the way, and touch the green sphere beyond it"
+10,28,左右どちらかのブロックに勢い良くぶつかって押し出し、緑の玉に触れる,左右どちらかのブロックに勢いよくぶつかって押し出し、その先にある緑玉に触れる,"Ram either the left or the right block hard to shove it out of the way, and touch the green sphere beyond it"
+10,29,左のブロックを押して中央の緑玉を危険ゾーンから右に転がしてから触る,左のブロックを押して中央の緑玉を赤い即死ゾーンの外へ右に転がし、外に出た緑玉に触れる,"Push the left block so that the green sphere in the center rolls to the right and out of the red death zone, and touch the sphere once it is out"
+10,30,右のブロックに勢い良くぶつかって押し出し、緑の玉に触れる,右のブロックに勢いよくぶつかって押し出し、その先にある緑玉に触れる,"Ram the right block hard to shove it out of the way, and touch the green sphere beyond it"
