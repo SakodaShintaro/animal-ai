@@ -1,27 +1,27 @@
 カテゴリ,シナリオ,説明,プロンプト案,プロンプト案_en
-1,1,1m直進で到達,直進し緑玉に触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
-1,2,15m直進で到達,直進し緑玉に触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
-1,3,40m以上直進で到達,直進し緑玉に触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
-1,4,ちょっと向き修正が必要,直進し緑玉に触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
-1,5,向き修正が必要,直進し緑玉に触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
-1,6,大きい玉,直進し緑玉に触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
-1,7,最大サイズの玉,直進し緑玉に触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
-1,8,最小サイズの玉,直進し緑玉に触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
-1,9,黃玉,直進し黃玉に触れる,"Stop and turn right until the yellow sphere comes into the center of view, then walk straight ahead and touch it"
-1,10,黃巨大玉,直進し黃玉に触れる,"Stop and turn right until the yellow sphere comes into the center of view, then walk straight ahead and touch it"
-1,11,黃小玉,直進し黃玉に触れる,"Stop and turn right until the yellow sphere comes into the center of view, then walk straight ahead and touch it"
-1,12,要振り向き・緑大玉,緑玉が視界に入るまで右に振り向き、緑玉を視認したら直進し触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
-1,13,要振り向き・緑小玉,緑玉が視界に入るまで右に振り向き、緑玉を視認したら直進し触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
-1,14,要振り向き・緑最小玉,緑玉が視界に入るまで右に振り向き、緑玉を視認したら直進し触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
-1,15,要振り向き・黃玉,黃玉が視界に入るまで右に振り向き、黃玉を視認したら直進し触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
-1,16,用振り向き・緑最小玉・遠距離,緑玉が視界に入るまで右に振り向き、緑玉を視認したら直進し触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
-1,17,用振り向き・黃最小玉・遠距離,黃玉が視界に入るまで右に振り向き、黃玉を視認したら直進し触れる,"Stop and turn right until the green sphere comes into the center of view, then walk straight ahead and touch it"
+1,1,1m直進で到達,緑玉を見つけて触れる,Find the green sphere and touch it
+1,2,15m直進で到達,緑玉を見つけて触れる,Find the green sphere and touch it
+1,3,40m以上直進で到達,緑玉を見つけて触れる,Find the green sphere and touch it
+1,4,ちょっと向き修正が必要,緑玉を見つけて触れる,Find the green sphere and touch it
+1,5,向き修正が必要,緑玉を見つけて触れる,Find the green sphere and touch it
+1,6,大きい玉,緑玉を見つけて触れる,Find the green sphere and touch it
+1,7,最大サイズの玉,緑玉を見つけて触れる,Find the green sphere and touch it
+1,8,最小サイズの玉,緑玉を見つけて触れる,Find the green sphere and touch it
+1,9,黃玉,黃玉を見つけて触れる,Find the yellow sphere and touch it
+1,10,黃巨大玉,黃玉を見つけて触れる,Find the yellow sphere and touch it
+1,11,黃小玉,黃玉を見つけて触れる,Find the yellow sphere and touch it
+1,12,要振り向き・緑大玉,緑玉を見つけて触れる,Find the green sphere and touch it
+1,13,要振り向き・緑小玉,緑玉を見つけて触れる,Find the green sphere and touch it
+1,14,要振り向き・緑最小玉,緑玉を見つけて触れる,Find the green sphere and touch it
+1,15,要振り向き・黃玉,黃玉を見つけて触れる,Find the yellow sphere and touch it
+1,16,用振り向き・緑最小玉・遠距離,緑玉を見つけて触れる,Find the green sphere and touch it
+1,17,用振り向き・黃最小玉・遠距離,黃玉を見つけて触れる,Find the yellow sphere and touch it
 1,18,移動する緑玉,移動する緑玉を視界に入れて直進し、触れる,"Keep the moving green sphere in view, walk straight toward it, and touch it"
 1,19,移動する緑玉,移動する黃玉を視界に入れて直進し、触れる,"Keep the moving yellow sphere in view, walk straight toward it, and touch it"
-1,20,黃玉5個,黃玉が視界に入るまで右に振り向き、黃玉を視認したら直進し触れることを黃玉がなくなるまで繰り返す,"Turn right until a yellow sphere comes into view, then walk straight ahead and touch it, and repeat this until no yellow spheres are left"
-1,21,黃玉10個,黃玉が視界に入るまで右に振り向き、黃玉を視認したら直進し触れることを黃玉がなくなるまで繰り返す,"Turn right until a yellow sphere comes into view, then walk straight ahead and touch it, and repeat this until no yellow spheres are left"
-1,22,黃玉40個,黃玉が視界に入るまで右に振り向き、黃玉を視認したら直進し触れることを黃玉がなくなるまで繰り返す,"Turn right until a yellow sphere comes into view, then walk straight ahead and touch it, and repeat this until no yellow spheres are left"
-1,23,黃玉10個・赤玉10個,赤玉に触れないよう注意しつつ、黃玉が視界に入るまで右に振り向き、黃玉を視認したら直進し触れることを黃玉がなくなるまで繰り返す,"Taking care not to touch the red spheres, turn right until a yellow sphere comes into view, then walk straight ahead and touch it, and repeat this until no yellow spheres are left"
+1,20,黃玉5個,黃玉がなくなるまで順に触れる,Touch the yellow spheres one after another until none are left
+1,21,黃玉10個,黃玉がなくなるまで順に触れる,Touch the yellow spheres one after another until none are left
+1,22,黃玉40個,黃玉がなくなるまで順に触れる,Touch the yellow spheres one after another until none are left
+1,23,黃玉10個・赤玉10個,赤玉に触れないよう注意しつつ、黃玉がなくなるまで順に触れる,"Taking care not to touch the red spheres, touch the yellow spheres one after another until none are left"
 1,24,赤玉のみ,何もしない,Do nothing
 1,25,赤玉が壁状に並んだ奥に緑玉,赤玉に触れないよう注意しつつ、奥にある緑玉に接近して触れる,"Taking care not to touch the red spheres, approach the green sphere on the far side and touch it"
 1,26,1緑玉と赤玉複数ランダム,赤玉に触れないよう注意しつつ、奥にある緑玉に接近して触れる,"Taking care not to touch the red spheres, approach the green sphere on the far side and touch it"
