@@ -59,18 +59,18 @@
 2,28,レールから黃玉・赤玉が落下,赤玉に触れないよう注意しつつ、黃玉に触れる,"Taking care not to touch the red spheres, touch the yellow spheres"
 2,29,レールから緑玉1と黃玉複数が落下,黃玉がなくなるまで黃玉に先に触れ、最後に緑玉に触れる,"Touch the yellow spheres first until none are left, and touch the green sphere last"
 2,30,斜面やレールから黃玉が落下・緑玉を超えて先にそちらを取得,黃玉がなくなるまで黃玉に先に触れ、最後に緑玉に触れる,"Touch the yellow spheres first until none are left, and touch the green sphere last"
-3,1,中央の壁の裏に緑玉,壁の裏にある緑玉を視界に入れ、接近して触れる,"Bring the green sphere behind the wall into view, approach it, and touch it"
-3,2,端の壁の裏に緑玉,壁の裏にある緑玉を視界に入れ、接近して触れる,"Bring the green sphere behind the wall into view, approach it, and touch it"
-3,3,中央の小さい壁の裏に緑玉,壁の裏にある緑玉を視界に入れ、接近して触れる,"Bring the green sphere behind the wall into view, approach it, and touch it"
-3,4,左奥端の背の低い壁の裏に緑玉,左から壁の裏に回り込んで緑玉に触れる,Go around behind the wall from the left and touch the green sphere
+3,1,中央の壁の裏に緑玉,灰色の壁の裏にある緑玉を視界に入れ、接近して触れる,"Bring the green sphere behind the gray wall into view, approach it, and touch it"
+3,2,端の壁の裏に緑玉,灰色の壁の裏にある緑玉を視界に入れ、接近して触れる,"Bring the green sphere behind the gray wall into view, approach it, and touch it"
+3,3,中央の小さい壁の裏に緑玉,灰色の壁の裏にある緑玉を視界に入れ、接近して触れる,"Bring the green sphere behind the gray wall into view, approach it, and touch it"
+3,4,左奥端の背の低い壁の裏に緑玉,左から灰色の壁の裏に回り込んで緑玉に触れる,Go around behind the gray wall from the left and touch the green sphere
 3,5,左奥端の透明な壁の裏に緑玉,左から透明な壁の裏に回り込んで緑玉に触れる,Go around behind the transparent wall from the left and touch the green sphere
-3,6,I字段差・左の透明な壁の裏に緑玉,左から壁の裏に回り込んで緑玉に触れる,Go around behind the wall from the left and touch the green sphere
-3,7,右奥端の背の低い壁の裏に緑玉,右から壁の裏に回り込んで緑玉に触れる,Go around behind the wall from the right and touch the green sphere
+3,6,I字段差・左の透明な壁の裏に緑玉,左から透明な壁の裏に回り込んで緑玉に触れる,Go around behind the transparent wall from the left and touch the green sphere
+3,7,右奥端の背の低い壁の裏に緑玉,右から灰色の壁の裏に回り込んで緑玉に触れる,Go around behind the gray wall from the right and touch the green sphere
 3,8,右奥端の透明な壁の裏に緑玉,右から透明な壁の裏に回り込んで緑玉に触れる,Go around behind the transparent wall from the right and touch the green sphere
-3,9,I字段差・右の透明な壁の裏に緑玉,右から壁の裏に回り込んで緑玉に触れる,Go around behind the wall from the right and touch the green sphere
+3,9,I字段差・右の透明な壁の裏に緑玉,右から透明な壁の裏に回り込んで緑玉に触れる,Go around behind the transparent wall from the right and touch the green sphere
 3,10,V字の透明な壁の裏に緑玉,右から透明な壁の裏に大きく回り込んで緑玉に触れる,Take a wide path around the transparent wall from the right and touch the green sphere behind it
 3,11,逆V字の透明な壁の裏に緑玉,右から透明な壁の裏に大きく回り込んで緑玉に触れる,Take a wide path around the transparent wall from the right and touch the green sphere behind it
-3,12,X字の透明な壁の裏に緑玉,右から透明な壁の裏に大きく回り込んで緑玉に触れる,Take a wide path around the transparent wall from the right and touch the green sphere behind it
+3,12,X字の透明な壁の裏に緑玉,透明な壁の端を大きく回り込んで裏の緑玉に触れる,Take a wide path around the end of the transparent wall and touch the green sphere behind it
 3,13,壁トンネルの中に緑玉,トンネルの中にある緑玉に触れる,Touch the green sphere inside the tunnel
 3,14,透明トンネルの中に緑玉,トンネルの中にある緑玉に触れる,Touch the green sphere inside the tunnel
 3,15,長い透明トンネルの中に緑玉,トンネルの中にある緑玉に触れる,Touch the green sphere inside the tunnel
