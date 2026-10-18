@@ -12,14 +12,140 @@ arenas:
     - !Item
       name: DeathZone
       positions:
-      - !Vector3 {x: 3.75, y: 0, z: 21}
-      - !Vector3 {x: 20.875, y: 0, z: 21}
-      - !Vector3 {x: 35.375, y: 0, z: 21}
-      rotations: [0, 0, 0]
+      - !Vector3 {x: 7.39588, y: 0, z: 10.5}
+      - !Vector3 {x: 20.9312, y: 0, z: 10.5}
+      - !Vector3 {x: 31.673, y: 0, z: 10.5}
+      - !Vector3 {x: 7.2139, y: 0, z: 11.5}
+      - !Vector3 {x: 20.9312, y: 0, z: 11.5}
+      - !Vector3 {x: 31.8549, y: 0, z: 11.5}
+      - !Vector3 {x: 7.03191, y: 0, z: 12.5}
+      - !Vector3 {x: 20.9312, y: 0, z: 12.5}
+      - !Vector3 {x: 32.0369, y: 0, z: 12.5}
+      - !Vector3 {x: 6.84993, y: 0, z: 13.5}
+      - !Vector3 {x: 20.9312, y: 0, z: 13.5}
+      - !Vector3 {x: 32.2189, y: 0, z: 13.5}
+      - !Vector3 {x: 6.66794, y: 0, z: 14.5}
+      - !Vector3 {x: 20.9312, y: 0, z: 14.5}
+      - !Vector3 {x: 32.4009, y: 0, z: 14.5}
+      - !Vector3 {x: 6.48596, y: 0, z: 15.5}
+      - !Vector3 {x: 20.9312, y: 0, z: 15.5}
+      - !Vector3 {x: 32.5829, y: 0, z: 15.5}
+      - !Vector3 {x: 6.30397, y: 0, z: 16.5}
+      - !Vector3 {x: 20.9312, y: 0, z: 16.5}
+      - !Vector3 {x: 32.7649, y: 0, z: 16.5}
+      - !Vector3 {x: 6.12199, y: 0, z: 17.5}
+      - !Vector3 {x: 20.9312, y: 0, z: 17.5}
+      - !Vector3 {x: 32.9469, y: 0, z: 17.5}
+      - !Vector3 {x: 5.94, y: 0, z: 18.5}
+      - !Vector3 {x: 20.9312, y: 0, z: 18.5}
+      - !Vector3 {x: 33.1288, y: 0, z: 18.5}
+      - !Vector3 {x: 5.75802, y: 0, z: 19.5}
+      - !Vector3 {x: 20.9312, y: 0, z: 19.5}
+      - !Vector3 {x: 33.3108, y: 0, z: 19.5}
+      - !Vector3 {x: 5.57603, y: 0, z: 20.5}
+      - !Vector3 {x: 20.9312, y: 0, z: 20.5}
+      - !Vector3 {x: 33.4928, y: 0, z: 20.5}
+      - !Vector3 {x: 5.39405, y: 0, z: 21.5}
+      - !Vector3 {x: 20.9312, y: 0, z: 21.5}
+      - !Vector3 {x: 33.6748, y: 0, z: 21.5}
+      - !Vector3 {x: 5.21206, y: 0, z: 22.5}
+      - !Vector3 {x: 20.9312, y: 0, z: 22.5}
+      - !Vector3 {x: 33.8568, y: 0, z: 22.5}
+      - !Vector3 {x: 5.03008, y: 0, z: 23.5}
+      - !Vector3 {x: 20.9312, y: 0, z: 23.5}
+      - !Vector3 {x: 34.0388, y: 0, z: 23.5}
+      - !Vector3 {x: 4.84809, y: 0, z: 24.5}
+      - !Vector3 {x: 20.9312, y: 0, z: 24.5}
+      - !Vector3 {x: 34.2208, y: 0, z: 24.5}
+      - !Vector3 {x: 4.66611, y: 0, z: 25.5}
+      - !Vector3 {x: 20.9312, y: 0, z: 25.5}
+      - !Vector3 {x: 34.4027, y: 0, z: 25.5}
+      - !Vector3 {x: 4.48412, y: 0, z: 26.5}
+      - !Vector3 {x: 20.9312, y: 0, z: 26.5}
+      - !Vector3 {x: 34.5847, y: 0, z: 26.5}
+      - !Vector3 {x: 4.30213, y: 0, z: 27.5}
+      - !Vector3 {x: 20.9312, y: 0, z: 27.5}
+      - !Vector3 {x: 34.7667, y: 0, z: 27.5}
+      - !Vector3 {x: 4.12015, y: 0, z: 28.5}
+      - !Vector3 {x: 20.9312, y: 0, z: 28.5}
+      - !Vector3 {x: 34.9487, y: 0, z: 28.5}
+      - !Vector3 {x: 3.93816, y: 0, z: 29.5}
+      - !Vector3 {x: 20.9312, y: 0, z: 29.5}
+      - !Vector3 {x: 35.1307, y: 0, z: 29.5}
+      - !Vector3 {x: 3.75618, y: 0, z: 30.5}
+      - !Vector3 {x: 20.9312, y: 0, z: 30.5}
+      - !Vector3 {x: 35.3127, y: 0, z: 30.5}
+      - !Vector3 {x: 3.57419, y: 0, z: 31.5}
+      - !Vector3 {x: 20.9312, y: 0, z: 31.5}
+      - !Vector3 {x: 35.4946, y: 0, z: 31.5}
+      rotations: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
       sizes:
-      - !Vector3 {x: 7.5, y: 0, z: 22}
-      - !Vector3 {x: 16.75, y: 0, z: 22}
-      - !Vector3 {x: 9.25, y: 0, z: 22}
+      - !Vector3 {x: 14.7918, y: 0, z: 1}
+      - !Vector3 {x: 0.909065, y: 0, z: 1}
+      - !Vector3 {x: 16.6541, y: 0, z: 1}
+      - !Vector3 {x: 14.4278, y: 0, z: 1}
+      - !Vector3 {x: 1.63701, y: 0, z: 1}
+      - !Vector3 {x: 16.2901, y: 0, z: 1}
+      - !Vector3 {x: 14.0638, y: 0, z: 1}
+      - !Vector3 {x: 2.36495, y: 0, z: 1}
+      - !Vector3 {x: 15.9261, y: 0, z: 1}
+      - !Vector3 {x: 13.6999, y: 0, z: 1}
+      - !Vector3 {x: 3.09289, y: 0, z: 1}
+      - !Vector3 {x: 15.5622, y: 0, z: 1}
+      - !Vector3 {x: 13.3359, y: 0, z: 1}
+      - !Vector3 {x: 3.82083, y: 0, z: 1}
+      - !Vector3 {x: 15.1982, y: 0, z: 1}
+      - !Vector3 {x: 12.9719, y: 0, z: 1}
+      - !Vector3 {x: 4.54877, y: 0, z: 1}
+      - !Vector3 {x: 14.8342, y: 0, z: 1}
+      - !Vector3 {x: 12.6079, y: 0, z: 1}
+      - !Vector3 {x: 5.27671, y: 0, z: 1}
+      - !Vector3 {x: 14.4703, y: 0, z: 1}
+      - !Vector3 {x: 12.244, y: 0, z: 1}
+      - !Vector3 {x: 6.00465, y: 0, z: 1}
+      - !Vector3 {x: 14.1063, y: 0, z: 1}
+      - !Vector3 {x: 11.88, y: 0, z: 1}
+      - !Vector3 {x: 6.73259, y: 0, z: 1}
+      - !Vector3 {x: 13.7423, y: 0, z: 1}
+      - !Vector3 {x: 11.516, y: 0, z: 1}
+      - !Vector3 {x: 7.46053, y: 0, z: 1}
+      - !Vector3 {x: 13.3783, y: 0, z: 1}
+      - !Vector3 {x: 11.1521, y: 0, z: 1}
+      - !Vector3 {x: 8.18847, y: 0, z: 1}
+      - !Vector3 {x: 13.0144, y: 0, z: 1}
+      - !Vector3 {x: 10.7881, y: 0, z: 1}
+      - !Vector3 {x: 8.91641, y: 0, z: 1}
+      - !Vector3 {x: 12.6504, y: 0, z: 1}
+      - !Vector3 {x: 10.4241, y: 0, z: 1}
+      - !Vector3 {x: 9.64435, y: 0, z: 1}
+      - !Vector3 {x: 12.2864, y: 0, z: 1}
+      - !Vector3 {x: 10.0602, y: 0, z: 1}
+      - !Vector3 {x: 10.3723, y: 0, z: 1}
+      - !Vector3 {x: 11.9225, y: 0, z: 1}
+      - !Vector3 {x: 9.69618, y: 0, z: 1}
+      - !Vector3 {x: 11.1002, y: 0, z: 1}
+      - !Vector3 {x: 11.5585, y: 0, z: 1}
+      - !Vector3 {x: 9.33221, y: 0, z: 1}
+      - !Vector3 {x: 11.8282, y: 0, z: 1}
+      - !Vector3 {x: 11.1945, y: 0, z: 1}
+      - !Vector3 {x: 8.96824, y: 0, z: 1}
+      - !Vector3 {x: 12.5561, y: 0, z: 1}
+      - !Vector3 {x: 10.8306, y: 0, z: 1}
+      - !Vector3 {x: 8.60427, y: 0, z: 1}
+      - !Vector3 {x: 13.2841, y: 0, z: 1}
+      - !Vector3 {x: 10.4666, y: 0, z: 1}
+      - !Vector3 {x: 8.2403, y: 0, z: 1}
+      - !Vector3 {x: 14.012, y: 0, z: 1}
+      - !Vector3 {x: 10.1026, y: 0, z: 1}
+      - !Vector3 {x: 7.87633, y: 0, z: 1}
+      - !Vector3 {x: 14.7399, y: 0, z: 1}
+      - !Vector3 {x: 9.73864, y: 0, z: 1}
+      - !Vector3 {x: 7.51236, y: 0, z: 1}
+      - !Vector3 {x: 15.4679, y: 0, z: 1}
+      - !Vector3 {x: 9.37467, y: 0, z: 1}
+      - !Vector3 {x: 7.14839, y: 0, z: 1}
+      - !Vector3 {x: 16.1958, y: 0, z: 1}
+      - !Vector3 {x: 9.0107, y: 0, z: 1}
     - !Item
       name: Wall
       positions:
@@ -28,17 +154,10 @@ arenas:
       sizes:
       - !Vector3 {x: 0.5, y: 2, z: 8}
     - !Item
-      name: WallTransparent
-      positions:
-      - !Vector3 {x: 20.875, y: 0, z: 9.5}
-      rotations: [0]
-      sizes:
-      - !Vector3 {x: 16.75, y: 0.5, z: 1}
-    - !Item
       name: GoodGoal
       positions:
-      - !Vector3 {x: 10, y: 0, z: 36}
-      - !Vector3 {x: 30, y: 0, z: 36}
+      - !Vector3 {x: 8.35295, y: 0, z: 36}
+      - !Vector3 {x: 31.647, y: 0, z: 36}
       sizes:
       - !Vector3 {x: 1, y: 1, z: 1}
       - !Vector3 {x: 2, y: 2, z: 2}
